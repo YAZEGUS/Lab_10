@@ -1,0 +1,10 @@
+﻿  pch.cpp
+  AssemblyInfo.cpp
+  ConsoleApplication1.cpp
+  Создание кода...
+C:\Users\boiko\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(7,24): warning C4066: знаки после первого в константе из двухбайтовых знаков пропускаются
+  (компиляция исходного файла "/ConsoleApplication1.cpp")
+  
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  AssemblyInfo.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  ConsoleApplication1.vcxproj -> C:\Users\boiko\source\repos\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
